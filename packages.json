@@ -1,0 +1,26 @@
+[
+    {
+        "package": "AlpsNMR",
+        "url": "https://github.com/sipss/AlpsNMR"
+    },
+    {
+        "package": "GCIMS",
+        "url": "https://github.com/sipss/GCIMS"
+    },
+    {
+        "package": "MassSpecWavelet",
+        "url": "https://github.com/zeehio/MassSpecWavelet"
+    },
+    {
+        "package": "condformat",
+        "url": "https://github.com/zeehio/condformat"
+    },
+    {
+        "package": "sgolay",
+        "url": "https://github.com/zeehio/sgolay"
+    },
+    {
+        "package": "ChemometricsWithR",
+        "url": "https://github.com/rwehrens/ChemometricsWithR"
+    }
+]
