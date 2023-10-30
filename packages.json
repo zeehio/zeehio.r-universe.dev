@@ -22,5 +22,9 @@
     {
         "package": "ChemometricsWithR",
         "url": "https://github.com/rwehrens/ChemometricsWithR"
+    },
+    {
+        "package": "httpuv",
+        "url": "https://github.com/zeehio/httpuv"
     }
 ]
