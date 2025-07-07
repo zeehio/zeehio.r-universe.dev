@@ -24,10 +24,6 @@
         "url": "https://github.com/rwehrens/ChemometricsWithR"
     },
     {
-        "package": "httpuv",
-        "url": "https://github.com/zeehio/httpuv"
-    },
-    {
         "package": "azimuth",
         "url": "https://github.com/zeehio/azimuth"
     }
