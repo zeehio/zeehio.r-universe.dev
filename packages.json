@@ -26,5 +26,10 @@
     {
         "package": "Azimuth",
         "url": "https://github.com/zeehio/azimuth"
+    },
+    {
+        "package" : "odbc",
+        "url" : "https://github.com/zeehio/odbc",
+        "branch" : "databricks-config-file"
     }
 ]
